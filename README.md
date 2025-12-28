@@ -74,3 +74,5 @@ Your support helps us:
 
 All projects under Jedaeroweb are released under the **MIT License**,  
 unless stated otherwise in individual repositories.
+
+> 개인·상업적 사용 모두 완전히 자유롭습니다.
